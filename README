@@ -1,0 +1,14 @@
+4/7/2017
+
+encrypt program
+USAGE:: ./encrypt inputfile outputfile
+
+This program is one for synchronizing multiple threads, while getting a encrpted message of the input file. The encryted message will be stored in outputfile.
+
+On terminal, it will show the results from two counter threads. They are tracking the number of occurance of each alphabet in input message and encrypted message.
+
+This program contains single source file named, main.cpp.
+
+It will be compiled with makefile.
+
+
